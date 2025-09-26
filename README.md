@@ -4,7 +4,17 @@ This project contains a complete authentication system using Node.js, Express, a
 
 ## Live Site
 [Click here](https://nodejs-authentication-system-l2pu.onrender.com/user/signin) to visit the live site.
+### 🏠 Homepage
+![Homepage](./public/results/homepage.png)
 
+### 🔑 Signin
+![Signin](./public/results/signin.png)
+
+### 🆔 ID & Name
+![ID & Name](./public/results/id_name.png)
+
+### 🍃 MongoDB Data
+![Mongo Data](./public/results/data_mongo.png)
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
 - **Sign-in**: Log into your account securely.
