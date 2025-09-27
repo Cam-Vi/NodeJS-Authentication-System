@@ -15,18 +15,6 @@ This project contains a complete authentication system using Node.js, Express, a
 
 ### 🍃 MongoDB Data
 ![Mongo Data](./public/results/data_mongo.png)
-## 🏠 Homepage
-![Homepage](./public/results/homepage.png)
-
-## 🔑 Signin
-![Signin](./public/results/signin.png)
-
-## 🆕 Signup
-![Signup](./public/results/signup.png)
-
-## 🆔 ID & Name
-![ID & Name](./public/results/id_name.png)
-## 🔐 Change Password
 
 ![Change Password](./public/results/change_password.png)
 
@@ -51,6 +39,17 @@ This project contains a complete authentication system using Node.js, Express, a
 ## 🚪 Logout
 ![Logout](./public/results/logout.png)
 
+## change .env
+
+PORT=3000
+DB_URL=mongodb://localhost:27017/authdatabase
+CLIENT_ID=your_client_id
+CLIENT_SECRET=your_client_secret
+EMAIL=kynhan23@gmail.com
+PASSWORD=uoneqontelcwwevd
+RECAPTCHA_SECRET_KEY=6LeE7tUrAAAAALxjzLfj_YB8sLTq6LlI43jc_dkB
+
+CLIENT_URL=http://localhost:3000/auth/login/success
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
 - **Sign-in**: Log into your account securely.
