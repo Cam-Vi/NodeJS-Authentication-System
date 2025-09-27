@@ -15,6 +15,42 @@ This project contains a complete authentication system using Node.js, Express, a
 
 ### 🍃 MongoDB Data
 ![Mongo Data](./public/results/data_mongo.png)
+## 🏠 Homepage
+![Homepage](./public/results/homepage.png)
+
+## 🔑 Signin
+![Signin](./public/results/signin.png)
+
+## 🆕 Signup
+![Signup](./public/results/signup.png)
+
+## 🆔 ID & Name
+![ID & Name](./public/results/id_name.png)
+## 🔐 Change Password
+
+![Change Password](./public/results/change_password.png)
+
+## 🔐 Change Password (Success)
+![Change Password Success](./public/results/change_password_mongo.png)
+
+## 📧 Forget Password
+![Forget Password](./public/results/forget_password.png)
+## 🔄 Reset Password
+![Reset Password](./public/results/reset_password.png)
+## 📧 Email
+![Email](./public/results/email.png)
+## 🔑 Nhập Pass Reset
+![Nhập Pass Reset](./public/results/nhap_pass_reset.png)
+
+## 🔄 Reset Password (Mongo)
+![Reset Password Mongo](./public/results/pass_reset_mongo.png)
+
+## 🍃 MongoDB Data
+![Mongo Data](./public/results/data_mongo.png)
+
+## 🚪 Logout
+![Logout](./public/results/logout.png)
+
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
 - **Sign-in**: Log into your account securely.
