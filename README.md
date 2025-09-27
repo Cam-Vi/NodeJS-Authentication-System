@@ -35,9 +35,9 @@ This project contains a complete authentication system using Node.js, Express, a
 ## 🚪 Logout
 ![Logout](./public/results/logout.png)
 ## sign in with google 
- ![google](./public/results/sigin_with_gg.png.png)
+ ![google](./public/results/sigin_with_gg.png)
 
-![google](./public/results/sigin_with_gg1.png.png)
+![google](./public/results/sigin_with_gg1.png)
 
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
