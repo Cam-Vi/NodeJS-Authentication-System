@@ -6,7 +6,8 @@ This project contains a complete authentication system using Node.js, Express, a
 [Click here](https://nodejs-authentication-system-l2pu.onrender.com/user/signin) to visit the live site.
 ### 🏠 Homepage
 ![Homepage](./public/results/homepage.png)
-
+### signup
+![Signup](./public/results/signup.png)
 ### 🔑 Signin
 ![Signin](./public/results/signin.png)
 
@@ -18,7 +19,7 @@ This project contains a complete authentication system using Node.js, Express, a
 
 ![Change Password](./public/results/change_password.png)
 
-## 🔐 Change Password (Success)
+## 🔐 Change Password
 ![Change Password Success](./public/results/change_password_mongo.png)
 
 ## 📧 Forget Password
@@ -40,16 +41,17 @@ This project contains a complete authentication system using Node.js, Express, a
 ![Logout](./public/results/logout.png)
 
 ## change .env
+```plaintext
+   PORT=3000
+   DB_URL=mongodb://localhost:27017/authdatabase
+   CLIENT_ID=your_client_id
+   CLIENT_SECRET=your_client_secret
+   EMAIL=kynhan23@gmail.com
+   PASSWORD=uoneqontelcwwevd
+   RECAPTCHA_SECRET_KEY=6LeE7tUrAAAAALxjzLfj_YB8sLTq6LlI43jc_dkB
 
-PORT=3000
-DB_URL=mongodb://localhost:27017/authdatabase
-CLIENT_ID=your_client_id
-CLIENT_SECRET=your_client_secret
-EMAIL=kynhan23@gmail.com
-PASSWORD=uoneqontelcwwevd
-RECAPTCHA_SECRET_KEY=6LeE7tUrAAAAALxjzLfj_YB8sLTq6LlI43jc_dkB
-
-CLIENT_URL=http://localhost:3000/auth/login/success
+   CLIENT_URL=http://localhost:3000/auth/login/success
+   ```
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
 - **Sign-in**: Log into your account securely.
