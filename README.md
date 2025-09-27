@@ -32,9 +32,6 @@ This project contains a complete authentication system using Node.js, Express, a
 ## 🔄 Reset Password (Mongo)
 ![Reset Password Mongo](./public/results/pass_reset_mongo.png)
 
-## 🍃 MongoDB Data
-![Mongo Data](./public/results/data_mongo.png)
-
 ## 🚪 Logout
 ![Logout](./public/results/logout.png)
 
