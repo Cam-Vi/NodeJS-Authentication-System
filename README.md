@@ -24,8 +24,6 @@ This project contains a complete authentication system using Node.js, Express, a
 
 ## 📧 Forget Password
 ![Forget Password](./public/results/forget_password.png)
-## 🔄 Reset Password
-![Reset Password](./public/results/reset_password.png)
 ## 📧 Email
 ![Email](./public/results/email.png)
 ## 🔑 Nhập Pass Reset
